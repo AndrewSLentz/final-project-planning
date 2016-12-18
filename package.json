@@ -1,0 +1,20 @@
+{
+  "name": "final-project-planning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewSLentz/final-project-planning.git"
+  },
+  "keywords": [],
+  "author": "Andrew S. Lentz <Andrew.S.Lentz@gmail.com> (https://medium.com/@andrew.s.lentz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndrewSLentz/final-project-planning/issues"
+  },
+  "homepage": "https://github.com/AndrewSLentz/final-project-planning#readme"
+}
